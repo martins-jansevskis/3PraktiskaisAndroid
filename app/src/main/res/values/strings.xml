@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DarbsUzVietas</string>
+    <string name="save_btn">Saglabāt</string>
+    <string name="activity1_txt">Aktivitāte 1</string>
+    <string name="activity2_txt">Aktivitāte 2</string>
+    <string name="activity1_btn">Aktivitāte 1</string>
+    <string name="activity2_btn">Aktivitāte 2</string>
+    <string name="read_btn">Nolasīt</string>
+    <string name="edit_txt">Izvade</string>
+</resources>
